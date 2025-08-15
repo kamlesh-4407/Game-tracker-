@@ -1,6 +1,10 @@
 # Game-tracker-🎮
 ### A sleek Python desktop app built with CustomTkinter to track games, developers, and ratings — with CSV storage, dark mode, and a modern UI
 
+[![GitHub release](https://img.shields.io/github/v/release/kamlesh-4407/Game-tracker-?style=for-the-badge)](https://github.com/kamlesh-4407/Game-tracker-/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/kamlesh-4407/Game-tracker-/total?style=for-the-badge)](https://github.com/kamlesh-4407/Game-tracker-/releases)
+
+
 ## 📥 Installation
 Just download the Main folder and click the gametracker application to run it.
 
